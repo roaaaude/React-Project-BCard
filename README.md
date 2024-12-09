@@ -26,15 +26,6 @@ BCard is a modern web application for managing digital business cards, built wit
   - Responsive layout for all devices
   - Interactive card animations
 
-## 💻 Technology Stack
-- **Frontend Framework:** React 18
-- **UI Library:** Material-UI (MUI)
-- **Routing:** React Router Dom
-- **State Management:** React Hooks & Context
-- **HTTP Client:** Axios
-- **Storage:** Local Storage
-- **Icons:** Material Icons
-- **Form Handling:** React Hook Form
 
 ## ⚙️ Installation
 
